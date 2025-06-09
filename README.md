@@ -9,7 +9,7 @@ This project focuses on analyzing bank loan data using **MySQL** to help financi
 ## 💡 Problem Statement
 
 Banks face challenges in understanding:
-- Which branches or demographics yield the highest loan revenue.
+- Which branches or demographics yield the highest loan revenue?
 - The rate of default and delinquency across portfolios.
 - The effectiveness of different loan products and terms.
 - Operational inefficiencies in loan disbursement and collection.
@@ -59,7 +59,7 @@ Banks face challenges in understanding:
 
 The following operations were performed:
 
-- **Aggregations** (`SUM`, `AVG`, `COUNT`) across branches, states, religions, purposes.
+- **Aggregations** (`SUM`, `AVG`, `COUNT`) across branches, states, religions, and purposes.
 - **Risk Flags**: Filtered and analyzed defaulted and delinquent loans.
 - **Time Functions**: Used `STR_TO_DATE`, `DATEDIFF`, and date logic to calculate loan tenure.
 - **Groupings** for segmentation and trend analysis.
@@ -84,7 +84,7 @@ Refer to the final dashboard and stakeholder presentation [here](link-if-uploade
 
 ## 🧠 Insights
 
-- Branches and states with highest loan ROI identified.
+- Branches and states with the highest loan ROI identified.
 - Youth demographic took the majority of loans.
 - ~X% of loans were either defaulted or delinquent.
 - Personal loans were the most popular by volume.
@@ -94,8 +94,8 @@ Refer to the final dashboard and stakeholder presentation [here](link-if-uploade
 ## 📎 File Structure
 
 - `Loan Analytics.pptx` – Requirements from Stakeholders.
-- `Bank_Data_analysis.sql` – SQL queries for entire project.
-
+- `Bank_Data_analysis.sql` – SQL queries for the entire project.
+- `Banking_Data_analysis.pptx` – Final stakeholder presentation.
 ---
 
 ## 🚀 Next Steps
