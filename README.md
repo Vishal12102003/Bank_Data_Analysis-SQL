@@ -69,7 +69,7 @@ The following operations were performed:
 
 ## 📽️ Project Demo
 
-Refer to the final dashboard and stakeholder presentation [here](link-if-uploaded).
+Refer to the final dashboard and stakeholder presentation [here](https://drive.google.com/file/d/1gwIwqb9LGcB2XVg7ugEbHRBwErqTbaBc/view?usp=sharing).
 
 ---
 
