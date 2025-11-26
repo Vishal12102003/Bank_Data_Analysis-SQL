@@ -96,10 +96,6 @@ Refer to the final dashboard and stakeholder presentation [here](https://drive.g
 - `Loan Analytics.pptx` – Requirements from Stakeholders.
 - `Bank_Data_analysis.sql` – SQL queries for the entire project.
 - `Banking_Data_analysis.pptx` – Final stakeholder presentation.
----
-
-Open the live dashboard here:  
-[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdlNTUwM2UtMWU4Zi00YzA3LThhYmEtMDk4ODhmZmEzMWQ3IiwidCI6ImE3NTk3ZTk2LTE1NDAtNDVmZi05ZGE5LTg5NWY5NzRhZDYyYSJ9)
 
 ---
 ## 🚀 Next Steps
