@@ -35,11 +35,6 @@ Banks face challenges in understanding:
 
 ---
 
-Open the live dashboard here:  
-[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdlNTUwM2UtMWU4Zi00YzA3LThhYmEtMDk4ODhmZmEzMWQ3IiwidCI6ImE3NTk3ZTk2LTE1NDAtNDVmZi05ZGE5LTg5NWY5NzRhZDYyYSJ9)
-
----
-
 ## 📌 Key KPIs Derived
 
 | KPI                            | Description                                                   |
@@ -103,6 +98,10 @@ Refer to the final dashboard and stakeholder presentation [here](https://drive.g
 - `Banking_Data_analysis.pptx` – Final stakeholder presentation.
 ---
 
+Open the live dashboard here:  
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdlNTUwM2UtMWU4Zi00YzA3LThhYmEtMDk4ODhmZmEzMWQ3IiwidCI6ImE3NTk3ZTk2LTE1NDAtNDVmZi05ZGE5LTg5NWY5NzRhZDYyYSJ9)
+
+---
 ## 🚀 Next Steps
 
 - Integrate predictive modeling for default risk.
